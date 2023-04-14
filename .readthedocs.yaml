@@ -5,6 +5,8 @@ build:
   tools:
     python: "3.11"
 
+formats: all
+
 # Build from the docs/source/ directory with Sphinx
 sphinx:
   configuration: docs/source/conf.py
