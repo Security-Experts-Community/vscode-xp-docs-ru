@@ -4,16 +4,24 @@
 
 Расширение eXtraction and Processing позволяет разрабатывать и тестировать правила в VSCode и VSCodium, а также публиковать их в необходимый для вашего продукта формат.
 
-Подробная информация о языке XP и разработке правил приведена в [Справочнике разработчика](https://help.ptsecurity.com/projects) продукта MaxPatrol SIEM.
-
+Подробная информация о языке XP и разработке правил приведена в [Справочнике разработчика](https://help.ptsecurity.com/projects) продукта MaxPatrol SIEM.
 
 ```{toctree}
+
 ---
+
 caption: Содержание
+
 maxdepth: 4
+
 ---
+
 gstarted.md
+
 develop.md
+
 testing.md
+
 publish.md
+
 ```
